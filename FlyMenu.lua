@@ -1,5 +1,3 @@
--- ESP DEBUG LEGAL (Toggle dengan tombol E)
-
 local Players = game:GetService("Players")
 local UIS = game:GetService("UserInputService")
 
